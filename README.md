@@ -1,0 +1,1 @@
+A simple Hotel Management System project built to demonstrate the basic functionalities of managing hotel bookings, rooms, and customers. The application is built using Java, Spring Boot, Spring Data JPA, REST API, MySQL, and Lombok.
